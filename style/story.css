@@ -9,7 +9,7 @@
 @media (max-width: 767px) {
   .header {
     padding: 87px 0;
-    background-image: url(/image/hero-sm.png);
+    background-image: url("/image/hero-sm.png");
   }
 }
 
