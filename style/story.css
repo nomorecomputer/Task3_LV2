@@ -9,7 +9,7 @@
 @media (max-width: 767px) {
   .header {
     padding: 87px 0;
-    background-image: url("/image/hero-sm.png");
+    background-image: url(https://raw.githubusercontent.com/nomorecomputer/Task3_LV2/185b3d18b5456d69dbefb23a350e54d50fd73846/image/hero-sm.png);
   }
 }
 
